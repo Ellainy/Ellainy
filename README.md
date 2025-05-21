@@ -75,9 +75,8 @@ Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django, 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
 <hr/>
+### 📊 Estatísticas
 <p>
   <img 
     align="left" 
