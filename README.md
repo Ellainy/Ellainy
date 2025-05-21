@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Ellainy
+# 👩🏻‍💻 Ellainy
 
 **`Estudante`**
 
@@ -6,8 +6,8 @@ Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio t�
 
 Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django, e participo de projetos que envolvem design, programação e experiências digitais interativas. Estou em constante aprendizado e busco sempre transformar ideias em soluções reais, criativas e acessíveis.
 
-# 📚 Gosto de aprender coisas novas, colaborar em equipe e explorar o lado criativo da tecnologia.
-# 🚀 Meu objetivo é me tornar uma desenvolvedora full stack e contribuir com projetos inovadores e significativos.
+📚 Gosto de aprender coisas novas, colaborar em equipe e explorar o lado criativo da tecnologia.
+🚀 Meu objetivo é me tornar uma desenvolvedora full stack e contribuir com projetos inovadores e significativos.
 
 
 ---
