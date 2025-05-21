@@ -77,7 +77,7 @@ Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django, 
 <br/>
 
 ### 📊 Estatísticas
-
+<hr/>
 <p>
   <img 
     align="left" 
@@ -86,7 +86,8 @@ Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django, 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Ellainy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<hr/>
+
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
