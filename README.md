@@ -4,7 +4,7 @@
 
 Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio técnico integrado em Informática para Internet no IFRN – Campus São Paulo do Potengi. Tenho grande interesse por tecnologia, especialmente pelas áreas de desenvolvimento web e projetos que envolvem criatividade, propósito e transformação.
 
-Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django, e participo de projetos que envolvem design, programação e experiências digitais interativas. Estou em constante aprendizado e busco sempre transformar ideias em soluções reais, criativas e acessíveis.
+Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. Estou em constante aprendizado e busco sempre transformar ideias em soluções reais, criativas e acessíveis.
 
 📚 Gosto de aprender coisas novas, colaborar em equipe e explorar o lado criativo da tecnologia. <br/>
 🚀 Meu objetivo é me tornar uma desenvolvedora full stack e contribuir com projetos inovadores e significativos.
