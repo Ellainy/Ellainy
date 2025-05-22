@@ -86,7 +86,7 @@ Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. 
     src="https://github-readme-stats.vercel.app/api?username=Ellainy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
----
+<br/>
 <p>
 <img 
       align="left" 
