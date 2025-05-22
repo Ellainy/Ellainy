@@ -6,7 +6,7 @@ Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio t�
 
 Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. Estou em constante aprendizado e busco sempre transformar ideias em soluções reais, criativas e acessíveis.
 
-📚 Gosto de aprender coisas novas, colaborar em equipe e explorar o lado criativo da tecnologia. <br/>
+📚 Gosto de aprender coisas novas e explorar o lado criativo da tecnologia. <br/>
 🚀 Meu objetivo é me tornar uma desenvolvedora full stack e contribuir com projetos inovadores e significativos.
 
 
@@ -86,7 +86,7 @@ Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. 
     src="https://github-readme-stats.vercel.app/api?username=Ellainy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
-
+---
 <p>
 <img 
       align="left" 
