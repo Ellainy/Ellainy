@@ -81,7 +81,7 @@ Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     src="https://github-readme-stats.vercel.app/api?username=Ellainy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
@@ -90,7 +90,7 @@ Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellainy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
