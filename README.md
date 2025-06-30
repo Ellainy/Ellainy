@@ -4,7 +4,7 @@
 
 
 **Estudante**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ansh%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+it+really+helps!)](https://github.com/Ansh-699)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ellainy%2C+Thanks+for+visiting+my+profile!)](https://github.com/Ellainy)
 
 Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio técnico integrado em Informática para Internet no campus IFRN – SPP. Tenho grande interesse por tecnologia, especialmente pelas áreas de desenvolvimento web. Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. Estou em constante aprendizado e busco sempre aperfeiçoar minhas habilidades.
 
