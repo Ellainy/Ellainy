@@ -1,5 +1,8 @@
 # 👩🏻‍💻 Ellainy
 
+[![Followers](https://img.shields.io/github/followers/Ellainylabel=Followers&style=social)](https://github.com/Ellainy) [![GitHub Stars](https://img.shields.io/github/stars/Ellainy?style=social)](https://github.com/Ellainy?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ellainy&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ellainy) [![Last Commit](https://img.shields.io/github/last-commit/Ellainy/Ellainy?color=green)](https://github.com/Ellainy) [![Check My Code](https://img.shields.io/badge/Check%20My%20Code-blue?style=flat&logo=github)](https://github.com/Ellainy)
+
+
 **Estudante**
 
 Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio técnico integrado em Informática para Internet no campus IFRN – SPP. Tenho grande interesse por tecnologia, especialmente pelas áreas de desenvolvimento web. Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. Estou em constante aprendizado e busco sempre aperfeiçoar minhas habilidades.
