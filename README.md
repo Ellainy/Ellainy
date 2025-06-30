@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ellainy
 
-[![Followers](https://img.shields.io/github/followers/Ellainylabel=Followers&style=social)](https://github.com/Ellainy) [![GitHub Stars](https://img.shields.io/github/stars/Ellainy?style=social)](https://github.com/Ellainy?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ellainy&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ellainy) [![Last Commit](https://img.shields.io/github/last-commit/Ellainy/Ellainy?color=green)](https://github.com/Ellainy) [![Check My Code](https://img.shields.io/badge/Check%20My%20Code-blue?style=flat&logo=github)](https://github.com/Ellainy)
+[![Followers](https://img.shields.io/github/followers/Ellainy?label=Followers&style=social)](https://github.com/Ellainy) [![GitHub Stars](https://img.shields.io/github/stars/Ellainy?style=social)](https://github.com/Ellainy?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ellainy&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ellainy) [![Last Commit](https://img.shields.io/github/last-commit/Ellainy/Ellainy?color=green)](https://github.com/Ellainy) [![Check My Code](https://img.shields.io/badge/Check%20My%20Code-blue?style=flat&logo=github)](https://github.com/Ellainy)
 
 
 **Estudante**
