@@ -2,11 +2,17 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=D1495B&width=850&height=40&lines=Hi+there+,+I'm+Ellainy%2C+Thanks+for+visiting+my+profile!)
 
-[![Followers](https://img.shields.io/github/followers/Ellainy?label=Followers&style=social)](https://github.com/Ellainy) [![GitHub Stars](https://img.shields.io/github/stars/Ellainy?style=social)](https://github.com/Ellainy?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ellainy&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ellainy) [![Last Commit](https://img.shields.io/github/last-commit/Ellainy/Ellainy?color=green)](https://github.com/Ellainy) [![Check My Code](https://img.shields.io/badge/Check%20My%20Code-blue?style=flat&logo=github)](https://github.com/Ellainy)
+[![Followers](https://img.shields.io/github/followers/Ellainy?label=Followers&style=social)](https://github.com/Ellainy) 
 
-<a href="https://github.com/Ellainy">
-    <img src="https://img.shields.io/github/followers/Ellainy?label=Seguidores&style=social" />
-  </a>
+[![GitHub Stars](https://img.shields.io/github/stars/Ellainy?style=social)](https://github.com/Ellainy?tab=repositories) 
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Ellainy&label=Profile%20Views&color=D1495B&style=flat)](https://github.com/Ellainy) 
+
+[![Last Commit](https://img.shields.io/github/last-commit/Ellainy/Ellainy?color=yellow)](https://github.com/Ellainy) 
+
+[![Check My Code](https://img.shields.io/badge/Check%20My%20Code-red?style=flat&logo=github)](https://github.com/Ellainy)
+
+
   <a href="https://github.com/Ellainy?tab=repositories">
     <img src="https://img.shields.io/github/stars/Ellainy?style=social" />
   </a>
