@@ -96,3 +96,8 @@ Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio t�
   />
 
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=723172&height=120&section=footer"/>
+
+
+
