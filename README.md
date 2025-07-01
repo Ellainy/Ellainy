@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=723172&height=120&section=header"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ellainy%2C+Thanks+for+visiting+my+profile!)](https://github.com/Ellainy)
+
 [![Followers](https://img.shields.io/github/followers/Ellainy?label=Followers&style=social)](https://github.com/Ellainy) [![GitHub Stars](https://img.shields.io/github/stars/Ellainy?style=social)](https://github.com/Ellainy?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ellainy&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ellainy) [![Last Commit](https://img.shields.io/github/last-commit/Ellainy/Ellainy?color=green)](https://github.com/Ellainy) [![Check My Code](https://img.shields.io/badge/Check%20My%20Code-blue?style=flat&logo=github)](https://github.com/Ellainy)
+
 Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio técnico integrado em Informática para Internet no campus IFRN – SPP. Tenho grande interesse por tecnologia, especialmente pelas áreas de desenvolvimento web. Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. Estou em constante aprendizado e busco sempre aperfeiçoar minhas habilidades.
 
 🚀 Meu objetivo é me tornar uma desenvolvedora full stack e contribuir com projetos inovadores e significativos.
