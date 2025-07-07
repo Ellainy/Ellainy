@@ -80,7 +80,7 @@ Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio t�
     align="left" 
     alt="GitHub Stats" 
     height="155" 
-    src="https://github-readme-stats.vercel.app/api?username=Ellainy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Ellainy&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
 
