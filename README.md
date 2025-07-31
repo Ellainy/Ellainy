@@ -1,11 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D1495B&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=D1495B&width=850&height=40&lines=Hi+there+,+I'm+Ellainy%2C+Thanks+for+visiting+my+profile!)
 
 [![Followers](https://img.shields.io/github/followers/Ellainy?label=Followers&style=social)](https://github.com/Ellainy) [![GitHub Stars](https://img.shields.io/github/stars/Ellainy?style=social)](https://github.com/Ellainy?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ellainy&label=Profile%20Views&color=D1495B&style=flat)](https://github.com/Ellainy) [![Last Commit](https://img.shields.io/github/last-commit/Ellainy/Ellainy?color=D1495B)](https://github.com/Ellainy)
 
-Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio técnico integrado em Informática para Internet no campus IFRN. Tenho grande interesse por tecnologia, especialmente pelas áreas de desenvolvimento web. Atualmente, estou me aprofundando em HTML, CSS, JavaScript e Python com Django. Estou em constante aprendizado e busco sempre aperfeiçoar minhas habilidades.
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=D1495B&width=850&height=40&lines=Hi+there+,+I'm+Ellainy%2C+Thanks+for+visiting+my+profile!)
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -72,13 +70,13 @@ Olá! Me chamo Ellainy Nayara, tenho 18 anos e sou estudante do ensino médio t�
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ellainy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
